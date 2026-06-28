@@ -1,0 +1,20 @@
+path: /Users/chandrahass/PycharmProjects/SashaInnoworks/pieds_15_class
+train: images/val
+val: images/val
+
+names:
+  0: Grape
+  1: Pomegranate
+  2: Strawberry
+  3: Watermelon
+  4: Pear
+  5: Pineapple
+  6: Apple
+  7: Banana
+  8: Orange
+  9: Coconut
+  10: Blender
+  11: Bread
+  12: Cheese
+  13: Box
+  14: Tin can

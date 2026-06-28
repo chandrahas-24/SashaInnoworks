@@ -1,0 +1,61 @@
+Direct matches (5) :
+    apple (COCO Class 47)
+    banana (COCO Class 46)
+    carrot (COCO Class 51)
+    orange (COCO Class 49)
+    toaster (COCO Class 70)
+
+Indirect matches (6) :
+    book pack ➔ YOLO outputs: book (COCO 73)
+    ceramic mug ➔ YOLO outputs: cup (COCO 41)
+    cups ➔ YOLO outputs: cup (COCO 41)
+    cutlery ➔ YOLO outputs: fork (COCO 42), knife (COCO 43), or spoon (COCO 44)
+    glass bottle ➔ YOLO outputs: bottle (COCO 39)
+    water bottle ➔ YOLO outputs: bottle (COCO 39)
+
+Need training (43) :
+    almond pouch
+    cardboard box
+    cloth roll
+    detergent pack
+    flour sack
+    medicine box
+    metal can
+    oil pouch
+    plastic container
+    rice bag
+    snack packet
+    soap bar pack
+    spice pouch
+    spices
+    sugar bag
+    toy box
+    yogurt (often hallucinated as a cup or bowl)
+
+    blueberry
+    cherry
+    coconut
+    custard apple
+    dragon fruit
+    garlic
+    grape
+    guava
+    kiwi
+    lychee
+    mango
+    mangoes
+    papaya
+    pear
+    pineapple
+    plum
+    pomegranate
+    strawberry
+    watermelon
+
+    blender (often hallucinated as a vase)
+    bread (often hallucinated as a donut or cake)
+    cereal (often hallucinated as a book)
+    cheese
+    electronics item
+    grater
+    kettle
